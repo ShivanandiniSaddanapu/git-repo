@@ -1,2 +1,2 @@
-# GIT-PRACTICE
+# TASK-1
 Git-projects
