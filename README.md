@@ -1,2 +1,2 @@
-# Nandini
+# GIT-PRACTICE
 Git-projects
